@@ -1,1 +1,10 @@
-
+- [x] Approved Project Topic and Listed in Teams Project Worksheet
+- [x] Established a Github account and joined our class organization (KSU-HMI) in Github by accepting the invite email.
+- [x] Established Team and ownership of a code repository in our Github organization: Kerrian Bailey, Tamari Caston, and Kalani Littles
+- [X] Created and edited README.md file
+- [X] Created and edited projectroadmap.md
+- [X] Explored at least one existing Python code base related to project 
+- [X] 
+- [ ] 
+- [ ]
+- [X] 
