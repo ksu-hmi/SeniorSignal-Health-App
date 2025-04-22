@@ -10,8 +10,9 @@ Those contributing and maintaining this project include our team: (Kerrian Baile
    - [Hydration Reminders](#hydration-reminders)
    - [Exercise Reminders](#exercise-reminders)
 4. [Key Features](#key-features)
-5. [How to Run the Code](#how-to-run-the-code)
-6. [License](#license)
+5. [Tech Stack](#tech-stack) 
+6. [How to Run the Code](#how-to-run-the-code)
+7. [License](#license)
 
 ## Background: 
 Elderly people who do not have a stable support system face many challenges on a daily basis, especially when it comes to keeping track of managing their daily health tasks and routines. While challenges differ among elderly individuals, some of the common challenges they face are issues with medication management, health monitoring, making sure they drink plenty of water, and getting exercise. These challenges can also be concerning for individuals who suffer from cognitive decline. 
@@ -69,6 +70,12 @@ The **Senior Signal** mobile health app includes the following key features to h
 9. **Voice Command Support**  
    The app supports voice commands for hands-free operation, allowing seniors to set and adjust reminders without needing to interact with the screen.
 
+## Tech Stack
+
+- **Language:** Python
+- **Mobile Framework:** *(To be confirmed – likely Kivy or BeeWare)*
+- **Version Control:** Git / GitHub
+- **Development Platform:** Cross-platform (iOS/Android)
 ## How to Run the Code
 -We will finalize after review
 
