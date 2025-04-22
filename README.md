@@ -1,5 +1,17 @@
 # Welcome to SeniorSignal Mobile Health App!
 Those contributing and maintaining this project include our team: (Kerrian Bailey, Tamari Caston, and Kalani Littles)
+
+#Table of Contents
+1)Background
+2)Who Would Use It?
+3)What Would It Do?
+  a)Medication Reminders
+  b)Hydration Reminders
+  c)Excercise Reminders
+4)Key Features
+5)How to Run the Code
+6)Licenses
+
 # Background: 
 Elderly people who do not have a stable support system face many challenges on a daily basis, especially when it comes to keeping track of managing their daily health tasks and routines. While challenges differ among elderly individuals, some of the common challenges they face are issues with medication management, health monitoring, making sure they drink plenty of water, and getting exercise. These challenges can also be concerning for individuals who suffer from cognitive decline. 
 
