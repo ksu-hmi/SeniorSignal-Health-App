@@ -6,11 +6,11 @@ Sprint #1
 - [X] Created and edited projectroadmap.md DONE
 - [X] Explored at least one existing Python code base related to project DONE
 - [x] Created a License file DONE
-- [ ] Find and evaluate related repository – **Health-Sync**
+- [x] Find and evaluate related repository – **Health-Sync**
 - [ ] Find and evaluate related repository – **ByrneThomas Medication Reminder**
 - [ ] Clone `Health-Sync` repo to team GitHub
 - [ ] Add starter Python file with basic app structure
-- [ ] Write summary of explored repo in `projectroadmap.md`   
+- [x] Write summary of explored repo in `projectroadmap.md`   
   
 
       
@@ -24,13 +24,20 @@ Kalani:
 Tamari:
 
 Sprint #2
-- [] 
-- [] 
-- []
-- [] 
+- [] Make sure everyone is making small updates and adding commit messages in repository
+- [] Each person should have commited at least 6 code changes of significant size
+- [] Include comments that explain what changes were made on code
+- [] Develop code and do a test run for medication reminders section of code
+- [] Develop code for Hydration reminder section of code
+- [] Develop code for exercise reminder section of code
 
 Sprint #3
-- [] 
-- [] 
-- []
-- [] 
+- [] Create PowerPoint template and upload to GitHub
+- [] Every member turns in copy of PowerPoint in D2L
+- [] List project team members
+- [] Show the title of your project
+- [] Show a tag line that introduces the main concept
+- [] Show 1-2 screenshots or pictures demonstrating the idea 
+- [] Make sure code is finalized
+- [] Discuss if the code worked or not
+- [] Present in teams meeting and upload to D2l
