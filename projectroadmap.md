@@ -15,13 +15,14 @@ Sprint #1
       
 # Our Findings include:
 Codebase Explored: [Health-Sync – by dhrumilp12](https://github.com/dhrumilp12/Health-Sync)
-Codebase Explored: https://github.com/ByrneThomas/Medication_-Reminder_-For_The-_Elderly.git
 
 Kerrian: Some specific things I learned in evaluating the code URL above is that the repository currently lacks detailed documentation and clear instructions for setting up and running the application. I also learned that when evaluating certain code, make sure that their is structure, organization, and readability. Unfortunately, this code did not run and it was kind of long. I was able to clone it to my computer and access it in Visual Studio Code, but I would say it lacks in user-friendliness. There are some comments made within the code, but they are not specific enough to understand what is exactly happening with the code. My group and I are still deciding whether we want to use the code or improve it. However, we might use certain aspects of the code such as medication reminders because it contains code that asks for things like specific medication names, dosage, and frequency.
 
 Kalani: Throughout this process, I learned how to search for similar projects that related to mine that also used python. I also learned how to properly fork and clone on my own. The code we found was a little long, but unfortunately it did not run on my end. There was a slight module error within the syntax. Some of the things on the code were easy to follow and understand what exactly it's supposed to produce, such as the class titles, but as someone who is still learning this concept, reading the rest of the code was a little difficult. As of now we're not 100% sure of our decision of using this yet. We may use some of this code, such as the part that focuses on medication reminders, which would be beneficial to our project.
 
 Tamari: I explored GitHub to search for projects similar to the one I am currently working on. Although we selected a specific codebase to review, it did not execute successfully. The code itself was extensive and contained a significant amount of information. While it wasn't overly difficult to follow, I was able to clone the repository to my local machine; however, the program still failed to run.For beginners, this process may be challenging without prior experience, so I would highly recommend practicing with GitHub and similar codebases beforehand. Although there were some comments within the code, they lacked detailed or specific explanations.At this stage, my team and I are still evaluating whether we will proceed with using this example for our project. The app does include some features and content that align with our own concept, which makes it a potentially valuable reference.
+
+Codebase Explored: https://github.com/ByrneThomas/Medication_-Reminder_-For_The-_Elderly.git
 
 Sprint #2
 - [] Make sure everyone is making small updates and adding commit messages in repository
