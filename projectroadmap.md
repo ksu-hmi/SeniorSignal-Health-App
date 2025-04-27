@@ -18,7 +18,7 @@ Codebase Explored: [Health-Sync – by dhrumilp12](https://github.com/dhrumilp12
 
 Kerrian: Some specific things I learned in evaluating the code URL above is that the repository currently lacks detailed documentation and clear instructions for setting up and running the application. I also learned that when evaluating certain code, make sure that their is structure, organization, and readability. Unfortunately, this code did not run and it was kind of long. I was able to clone it to my computer and access it in Visual Studio Code, but I would say it lacks in user-friendliness. There are some comments made within the code, but they are not specific enough to understand what is exactly happening with the code. My group and I are still deciding whether we want to use the code or improve it. However, we might use certain aspects of the code such as medication reminders because it contains code that asks for things like specific medication names, dosage, and frequency.
 
-Kalani:
+Kalani: Throughout this process, I learned how to search for similar projects that related to mine that also used python. I also learned how to properly fork and clone on my own. The code we found was a little long, but unfortunately it did not run on my end. There was a slight module error within the syntax. Some of the things on the code were easy to follow and understand what exactly it's supposed to produce, such as the class titles, but as someone who is still learning this concept, reading the rest of the code was a little difficult. As of now we're not 100% sure of our decision of using this yet. We may use some of this code, such as the part that focuses on medication reminders, which would be beneficial to our project.
 
 Tamari:
 
