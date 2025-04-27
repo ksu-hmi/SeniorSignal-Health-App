@@ -8,7 +8,6 @@ Sprint #1
 - [x] Created a License file DONE
 - [x] Find and evaluate related repository – **Health-Sync**
 - [ ] Find and evaluate related repository – **ByrneThomas Medication Reminder**
-- [ ] Clone `Health-Sync` repo to team GitHub
 - [ ] Add starter Python file with basic app structure
 - [x] Write summary of explored repo in `projectroadmap.md`   
   
