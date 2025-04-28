@@ -6,10 +6,10 @@ Sprint #1
 - [X] Created and edited projectroadmap.md DONE
 - [X] Explored at least one existing Python code base related to project DONE
 - [x] Created a License file DONE
-- [x] Find and evaluate related repository – **Health-Sync**
+- [x] Find and evaluate related repository – **Health-Sync** DONE-TC
 - [X] Find and evaluate related repository – **ByrneThomas Medication Reminder**,DONE- TC,KL,KB
 - [ ] Add starter Python file with basic app structure
-- [x] Write summary of explored repo in `projectroadmap.md`   
+- [x] Write summary of explored repo in `projectroadmap.md`,DONE- TC   
   
 
       
