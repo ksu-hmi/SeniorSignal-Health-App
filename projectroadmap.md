@@ -7,7 +7,7 @@ Sprint #1
 - [X] Explored at least one existing Python code base related to project DONE
 - [x] Created a License file DONE
 - [x] Find and evaluate related repository – **Health-Sync**
-- [ ] Find and evaluate related repository – **ByrneThomas Medication Reminder**
+- [X] Find and evaluate related repository – **ByrneThomas Medication Reminder**,DONE- TC,KL,KB
 - [ ] Add starter Python file with basic app structure
 - [x] Write summary of explored repo in `projectroadmap.md`   
   
@@ -31,7 +31,7 @@ Kalani: This code was useful for our project. It was mainly beneficial to the pa
 Tamari:The code was not successful because it asked to import file "pyttsx3".
 
 Sprint #2
-- [] Make sure everyone is making small updates and adding commit messages in repository
+- [X] Make sure everyone is making small updates and adding commit messages in repository,DONE-TC
 - [] Each person should have commited at least 6 code changes of significant size
 - [] Include comments that explain what changes were made on code
 - [] Develop code and do a test run for medication reminders section of code
