@@ -6,10 +6,10 @@ Sprint #1
 - [X] Created and edited projectroadmap.md DONE
 - [X] Explored at least one existing Python code base related to project DONE
 - [x] Created a License file DONE
-- [x] Find and evaluate related repository – **Health-Sync** DONE-TC
+- [x] Find and evaluate related repository – **Health-Sync** DONE-TC, KL
 - [X] Find and evaluate related repository – **ByrneThomas Medication Reminder**,DONE- TC,KL,KB
 - [ ] Add starter Python file with basic app structure
-- [x] Write summary of explored repo in `projectroadmap.md`,DONE- TC   
+- [x] Write summary of explored repo in `projectroadmap.md`,DONE- TC, KL   
   
 
       
@@ -26,12 +26,12 @@ Codebase Explored: https://github.com/ByrneThomas/Medication_-Reminder_-For_The-
 
 Kerrian: The code was a great example code to use for medication reminders because, but it did not work in Visual Studio code due to different errors with the code.
 
-Kalani: This code was useful for our project. It was mainly beneficial to the part of our project that involved the medication reminder alerts for our elderly patients. We ran into a minor problem when trying to run this specific code on VSC because our laptops weren't compatible with one of the softwares he used (Pylance). Otherwise, if we had that software, it wouldv'e ran on our end as well.
+Kalani: This code was useful for our project. It was mainly beneficial to the part of our project that involved the medication reminder alerts for our elderly patients. We ran into a minor problem when trying to run this specific code on VSC because our laptops weren't compatible with one of the softwares he used (Pylance). Otherwise, if we had that software, it would've ran on our end as well.
 
 Tamari:The code was not successful because it asked to import file "pyttsx3".
 
 Sprint #2
-- [X] Make sure everyone is making small updates and adding commit messages in repository,DONE-TC
+- [X] Make sure everyone is making small updates and adding commit messages in repository,DONE-TC, KL
 - [] Each person should have commited at least 6 code changes of significant size
 - [] Include comments that explain what changes were made on code
 - [] Develop code and do a test run for medication reminders section of code
