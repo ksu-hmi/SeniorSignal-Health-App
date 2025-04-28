@@ -23,8 +23,11 @@ Kalani: Throughout this process, I learned how to search for similar projects th
 Tamari: I explored GitHub to search for projects similar to the one I am currently working on. Although we selected a specific codebase to review, it did not execute successfully. The code itself was extensive and contained a significant amount of information. While it wasn't overly difficult to follow, I was able to clone the repository to my local machine; however, the program still failed to run.For beginners, this process may be challenging without prior experience, so I would highly recommend practicing with GitHub and similar codebases beforehand. Although there were some comments within the code, they lacked detailed or specific explanations.At this stage, my team and I are still evaluating whether we will proceed with using this example for our project. The app does include some features and content that align with our own concept, which makes it a potentially valuable reference.
 
 Codebase Explored: https://github.com/ByrneThomas/Medication_-Reminder_-For_The-_Elderly.git
+
 Kerrian: The code was a great example code to use for medication reminders because, btu ti did not work in Visual Studio code due to different errors with the code.
+
 Kalani:
+
 Tamari:
 
 Sprint #2
