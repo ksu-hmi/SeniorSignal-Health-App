@@ -26,7 +26,7 @@ Codebase Explored: https://github.com/ByrneThomas/Medication_-Reminder_-For_The-
 
 Kerrian: The code was a great example code to use for medication reminders because, but it did not work in Visual Studio code due to different errors with the code.
 
-Kalani:
+Kalani: This code was useful for our project. It was mainly beneficial to the part of our project that involved the medication reminder alerts for our elderly patients. We ran into a minor problem when trying to run this specific code on VSC because our laptops weren't compatible with one of the softwares he used (Pylance). Otherwise, if we had that software, it wouldv'e ran on our end as well.
 
 Tamari:
 
