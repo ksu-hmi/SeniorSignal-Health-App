@@ -24,7 +24,7 @@ Tamari: I explored GitHub to search for projects similar to the one I am current
 
 Codebase Explored: https://github.com/ByrneThomas/Medication_-Reminder_-For_The-_Elderly.git
 
-Kerrian: The code was a great example code to use for medication reminders because, btu ti did not work in Visual Studio code due to different errors with the code.
+Kerrian: The code was a great example code to use for medication reminders because, but it did not work in Visual Studio code due to different errors with the code.
 
 Kalani:
 
