@@ -28,7 +28,7 @@ Kerrian: The code was a great example code to use for medication reminders becau
 
 Kalani: This code was useful for our project. It was mainly beneficial to the part of our project that involved the medication reminder alerts for our elderly patients. We ran into a minor problem when trying to run this specific code on VSC because our laptops weren't compatible with one of the softwares he used (Pylance). Otherwise, if we had that software, it wouldv'e ran on our end as well.
 
-Tamari:
+Tamari:The code was not successful because it asked to import file "pyttsx3".
 
 Sprint #2
 - [] Make sure everyone is making small updates and adding commit messages in repository
