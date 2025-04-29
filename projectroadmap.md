@@ -1,15 +1,15 @@
 Sprint #1
 - [x] Approved Project Topic and Listed in Teams Project Worksheet DONE
-- [x] Established a Github account and joined our class organization (KSU-HMI) in Github by accepting the invite email. DONE
+- [x] Established a Github account and joined our class organization (KSU-HMI) in Github by accepting the invite email. DONE-KB, KL, TC
 - [x] Established Team and ownership of a code repository in our Github organization: Kerrian Bailey, Tamari Caston, and Kalani Littles DONE
-- [X] Created and edited README.md file DONE
-- [X] Created and edited projectroadmap.md DONE
-- [X] Explored at least one existing Python code base related to project DONE
-- [x] Created a License file DONE
-- [x] Find and evaluate related repository – **Health-Sync** DONE-TC, KL, KB
-- [X] Find and evaluate related repository – **ByrneThomas Medication Reminder**,DONE- TC,KL,KB
-- [ ] Add starter Python file with basic app structure
-- [x] Write summary of explored repo in `projectroadmap.md`,DONE- TC, KL,KB 
+- [X] Created and edited README.md file DONE -KB
+- [X] Created and edited projectroadmap.md DONE-KB,KL,TC
+- [X] Explored at least one existing Python code base related to project DONE-KB,KL,TC
+- [x] Created a License file DONE -KB
+- [x] Find and evaluate related repository – **Health-Sync** DONE-TC, KL, KB DONE
+- [X] Find and evaluate related repository – **ByrneThomas Medication Reminder**,DONE- TC,KL,KB DONE
+- [x] Add starter Python file with basic app structure DONE-KB,KL,TC
+- [x] Write summary of explored repo in `projectroadmap.md`,DONE- TC, KL,KB DONE
   
 
       
@@ -32,19 +32,19 @@ Tamari:The code was not successful because it asked to import file "pyttsx3".
 
 Sprint #2
 - [X] Make sure everyone is making small updates and adding commit messages in repository,DONE-TC, KL, KB
-- [] Each person should have commited at least 6 code changes of significant size
-- [] Include comments that explain what changes were made on code
-- [] Develop code and do a test run for medication reminders section of code
-- [] Develop code for Hydration reminder section of code
-- [] Develop code for exercise reminder section of code
+- [X] Each person should have commited at least 6 code changes of significant size DONE
+- [X] Include comments that explain what changes were made on code DONE
+- [X] Develop code and do a test run for medication reminders section of code DONE
+- [X] Develop code for Hydration reminder section of code DONE
+- [X] Develop code for exercise reminder section of code DONE
 
 Sprint #3
-- [] Create PowerPoint template and upload to GitHub
-- [] Every member turns in copy of PowerPoint in D2L
-- [] List project team members
-- [] Show the title of your project
-- [] Show a tag line that introduces the main concept
-- [] Show 1-2 screenshots or pictures demonstrating the idea 
+- [X] Create PowerPoint/Splash Screen template and upload to GitHub DONE
+- [X] Every member turns in copy of PowerPoint/Splash Screen in D2L DONE
+- [X] List project team members DONE
+- [X] Show the title of your project DONE
+- [X] Show a tag line that introduces the main concept DONE
+- [X] Show 1-2 screenshots or pictures demonstrating the idea DONE
 - [] Make sure code is finalized
 - [] Discuss if the code worked or not
 - [] Present in teams meeting and upload to D2l
