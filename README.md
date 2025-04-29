@@ -58,26 +58,29 @@ The **Senior Signal** mobile health app includes the following key features to h
 5. **Easy-to-Use Interface**  
    The app has a user-friendly interface designed specifically for seniors, with large fonts, simple navigation, and clear icons.
 
-6. **Progress Tracking**  
-   Users can track their daily activity, medication intake, and hydration levels with visual progress indicators. This helps keep seniors motivated and engaged with their health.
-
-7. **Health Analytics**  
-   The app provides insights into the user’s health data, offering recommendations based on their activity patterns and health goals.
-
-8. **Emergency Alert System**  
-   In case of an emergency, seniors can quickly notify their caregivers or family members through a dedicated alert button within the app.
-
-9. **Voice Command Support**  
+6. **Voice Command Support**  
    The app supports voice commands for hands-free operation, allowing seniors to set and adjust reminders without needing to interact with the screen.
 
 ## Tech Stack
 
 - **Language:** Python
-- **Mobile Framework:** *(To be confirmed – likely Kivy or BeeWare)*
+- **Current Mobile Franework:** Tkinter Desktop GUI ToolKit
+- **Future Mobile Framework:** *(To be confirmed – likely Kivy or BeeWare)*
 - **Version Control:** Git / GitHub
-- **Development Platform:** Cross-platform (iOS/Android)
+- **Future *Development Platform:** Cross-platform (iOS/Android)
 ## How to Run the Code
--We will finalize after review
+🖥️ Requirements:
+Python 3.x installed on your computer
+
+📥 Install Required Libraries:
+This app uses only Python’s built-in libraries, so no extra installation is needed!
+
+▶️ To Run the App:
+Download or clone this repository to your computer.
+
+Open your terminal (Command Prompt or PowerShell on Windows, or Terminal on macOS/Linux).
+
+Navigate to the FinalCode.py folder
 
 
 ## License
