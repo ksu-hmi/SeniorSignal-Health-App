@@ -24,6 +24,8 @@ Tamari: I explored GitHub to search for projects similar to the one I am current
 
 Codebase Explored: https://github.com/ByrneThomas/Medication_-Reminder_-For_The-_Elderly.git
 
+# UPDATE 4/29/25: We got the code to succesfully run and noticed that it was a GUI Desktop App instead of a Mobile App, so we decided to set Senior Signal as a GUI app and for future purposes we can figure out how to develop a mobile app using Kivy.
+
 Kerrian: The code was a great example code to use for medication reminders because, but it did not work in Visual Studio code due to different errors with the code.
 
 Kalani: This code was useful for our project. It was mainly beneficial to the part of our project that involved the medication reminder alerts for our elderly patients. We ran into a minor problem when trying to run this specific code on VSC because our laptops weren't compatible with one of the softwares he used (Pylance). Otherwise, if we had that software, it would've ran on our end as well.
