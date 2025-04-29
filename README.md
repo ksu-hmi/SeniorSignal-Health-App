@@ -64,7 +64,7 @@ The **Senior Signal** mobile health app includes the following key features to h
 ## Tech Stack
 
 - **Language:** Python
-- **Current Mobile Franework:** Tkinter Desktop GUI ToolKit
+- **Current App Framework:** Tkinter Desktop GUI ToolKit
 - **Future Mobile Framework:** *(To be confirmed – likely Kivy or BeeWare)*
 - **Version Control:** Git / GitHub
 - **Future *Development Platform:** Cross-platform (iOS/Android)
