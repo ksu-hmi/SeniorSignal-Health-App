@@ -82,6 +82,12 @@ Open your terminal (Command Prompt or PowerShell on Windows, or Terminal on macO
 
 Navigate to the FinalCode.py folder
 
+💾 Data Storage:
+Medications you add are automatically saved to a local medications.json file.
+
+The app loads your saved medications each time it starts.
+
+
 
 ## License
 
