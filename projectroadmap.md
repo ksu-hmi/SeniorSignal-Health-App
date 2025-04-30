@@ -47,6 +47,6 @@ Sprint #3
 - [X] Show the title of your project DONE
 - [X] Show a tag line that introduces the main concept DONE
 - [X] Show 1-2 screenshots or pictures demonstrating the idea DONE
-- [] Make sure code is finalized
-- [] Discuss if the code worked or not
-- [] Present in teams meeting and upload to D2l
+- [x] Make sure code is finalized
+- [x] Discuss if the code worked or not
+- [x] Present in teams meeting and upload to D2l
